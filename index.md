@@ -1,11 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/huytnguyen09/huytnguyen09/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+<iframe src="https://freeboard.io/board/JzQ9dD" height="200" width="300"></iframe>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
